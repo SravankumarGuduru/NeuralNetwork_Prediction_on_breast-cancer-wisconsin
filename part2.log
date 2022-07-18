@@ -1,0 +1,330 @@
+scores - error: 0.24525588750839233, acc: 0.9489051103591919
+activation_function sigmoid, lr 0.01, epoch 100, num_hidden_layers 2
+train_loss 0.2618297163206033, train_accuracy 0.9285714030265808, test_loss 0.24525584563286634, test_accuracy 0.9489051103591919
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   7
+1       0  40
+scores - error: 0.64432293176651, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.01, epoch 100, num_hidden_layers 3
+train_loss 0.650670913877068, train_accuracy 0.6483516693115234, test_loss 0.6443229117532716, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.639014720916748, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.1, epoch 100, num_hidden_layers 2
+train_loss 0.6489437482295892, train_accuracy 0.6483516693115234, test_loss 0.6390147017736505, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.6433985829353333, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.1, epoch 100, num_hidden_layers 3
+train_loss 0.6504243170712893, train_accuracy 0.6483516693115234, test_loss 0.643398532684702, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.1634865552186966, acc: 0.9489051103591919
+activation_function tanh, lr 0.01, epoch 100, num_hidden_layers 2
+train_loss 0.1797722678140297, train_accuracy 0.9487179517745972, test_loss 0.16348652782285736, test_accuracy 0.9489051103591919
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   7
+1       0  40
+scores - error: 0.6431064009666443, acc: 0.6569343209266663
+activation_function tanh, lr 0.01, epoch 100, num_hidden_layers 3
+train_loss 0.6507403945529854, train_accuracy 0.6483516693115234, test_loss 0.6431063794306595, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.17551445960998535, acc: 0.9489051103591919
+activation_function tanh, lr 0.1, epoch 100, num_hidden_layers 2
+train_loss 0.17467058492541285, train_accuracy 0.9432234168052673, test_loss 0.17551444355316842, test_accuracy 0.9489051103591919
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   7
+1       0  40
+scores - error: 0.6448370218276978, acc: 0.6569343209266663
+activation_function tanh, lr 0.1, epoch 100, num_hidden_layers 3
+train_loss 0.649815592846591, train_accuracy 0.6483516693115234, test_loss 0.6448370407532601, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.6372745633125305, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.01, epoch 100, num_hidden_layers 2
+train_loss 0.6441187730311474, train_accuracy 0.6483516693115234, test_loss 0.6372745008799281, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.6441224217414856, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.01, epoch 100, num_hidden_layers 3
+train_loss 0.6504086138127925, train_accuracy 0.6483516693115234, test_loss 0.6441224448002167, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.38905781507492065, acc: 0.8613138794898987
+activation_function sigmoid, lr 0.1, epoch 100, num_hidden_layers 2
+train_loss 0.4291012548319586, train_accuracy 0.8571428656578064, test_loss 0.38905783595829985, test_accuracy 0.8613138794898987
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  19
+1       0  28
+scores - error: 0.6566179990768433, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.1, epoch 100, num_hidden_layers 3
+train_loss 0.6480361128246391, train_accuracy 0.6483516693115234, test_loss 0.6566180225706448, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.15675261616706848, acc: 0.9489051103591919
+activation_function tanh, lr 0.01, epoch 100, num_hidden_layers 2
+train_loss 0.18804417928551143, train_accuracy 0.9505494236946106, test_loss 0.15675263089148234, test_accuracy 0.9489051103591919
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   7
+1       0  40
+scores - error: 0.1546664834022522, acc: 0.9489051103591919
+activation_function tanh, lr 0.01, epoch 100, num_hidden_layers 3
+train_loss 0.21086479915858625, train_accuracy 0.9358974099159241, test_loss 0.1546664701869888, test_accuracy 0.9489051103591919
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   7
+1       0  40
+scores - error: 0.1550382822751999, acc: 0.956204354763031
+activation_function tanh, lr 0.1, epoch 100, num_hidden_layers 2
+train_loss 0.1826537028296199, train_accuracy 0.9487179517745972, test_loss 0.15503828598689423, test_accuracy 0.956204354763031
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   6
+1       0  41
+scores - error: 0.2107378989458084, acc: 0.9270073175430298
+activation_function tanh, lr 0.1, epoch 100, num_hidden_layers 3
+train_loss 0.206496115896728, train_accuracy 0.9413919448852539, test_loss 0.2107378906522789, test_accuracy 0.9270073175430298
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  10
+1       0  37
+scores - error: 0.2015596330165863, acc: 0.9343065619468689
+activation_function relu, lr 0.01, epoch 100, num_hidden_layers 2
+train_loss 0.22862600274520478, train_accuracy 0.9322344064712524, test_loss 0.2015596373400984, test_accuracy 0.9343065619468689
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   9
+1       0  38
+scores - error: 0.6442816853523254, acc: 0.6569343209266663
+activation_function relu, lr 0.01, epoch 100, num_hidden_layers 3
+train_loss 0.6494729809271984, train_accuracy 0.6483516693115234, test_loss 0.6442816361893703, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.1330908238887787, acc: 0.9635036587715149
+activation_function relu, lr 0.1, epoch 100, num_hidden_layers 2
+train_loss 0.1846515501260749, train_accuracy 0.9377289414405823, test_loss 0.13309082865415917, test_accuracy 0.9635036587715149
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   5
+1       0  42
+scores - error: 0.643053412437439, acc: 0.6569343209266663
+activation_function relu, lr 0.1, epoch 100, num_hidden_layers 3
+train_loss 0.6505693160133921, train_accuracy 0.6483516693115234, test_loss 0.6430534898799701, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.39734765887260437, acc: 0.9051094651222229
+activation_function sigmoid, lr 0.01, epoch 100, num_hidden_layers 2
+train_loss 0.4235283347604039, train_accuracy 0.8424908518791199, test_loss 0.397347645385422, test_accuracy 0.9051094651222229
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  13
+1       0  34
+scores - error: 0.6432433724403381, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.01, epoch 100, num_hidden_layers 3
+train_loss 0.6516448166016694, train_accuracy 0.6483516693115234, test_loss 0.6432433195792846, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.38880598545074463, acc: 0.8540145754814148
+activation_function sigmoid, lr 0.1, epoch 100, num_hidden_layers 2
+train_loss 0.4232425257399842, train_accuracy 0.8571428656578064, test_loss 0.3888059672865554, test_accuracy 0.8540145754814148
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  20
+1       0  27
+scores - error: 0.6430979371070862, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.1, epoch 100, num_hidden_layers 3
+train_loss 0.6508467418479396, train_accuracy 0.6483516693115234, test_loss 0.6430979268829318, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.14569078385829926, acc: 0.956204354763031
+activation_function tanh, lr 0.01, epoch 100, num_hidden_layers 2
+train_loss 0.1874189031695872, train_accuracy 0.9487179517745972, test_loss 0.14569077798484886, test_accuracy 0.956204354763031
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   6
+1       0  41
+scores - error: 0.2456948161125183, acc: 0.9051094651222229
+activation_function tanh, lr 0.01, epoch 100, num_hidden_layers 3
+train_loss 0.2700390229683929, train_accuracy 0.906593382358551, test_loss 0.24569479944388362, test_accuracy 0.9051094651222229
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  13
+1       0  34
+scores - error: 0.14713682234287262, acc: 0.9635036587715149
+activation_function tanh, lr 0.1, epoch 100, num_hidden_layers 2
+train_loss 0.18586270308510944, train_accuracy 0.9505494236946106, test_loss 0.14713683413056128, test_accuracy 0.9635036587715149
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   5
+1       0  42
+scores - error: 0.6420690417289734, acc: 0.6569343209266663
+activation_function tanh, lr 0.1, epoch 100, num_hidden_layers 3
+train_loss 0.6490579020409357, train_accuracy 0.6483516693115234, test_loss 0.642068989085455, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.6436168551445007, acc: 0.6569343209266663
+activation_function relu, lr 0.01, epoch 100, num_hidden_layers 2
+train_loss 0.6509258347553212, train_accuracy 0.6483516693115234, test_loss 0.6436168773330911, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.6435662508010864, acc: 0.6569343209266663
+activation_function relu, lr 0.01, epoch 100, num_hidden_layers 3
+train_loss 0.6494865138015468, train_accuracy 0.6483516693115234, test_loss 0.6435663604388272, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.16626900434494019, acc: 0.956204354763031
+activation_function relu, lr 0.1, epoch 100, num_hidden_layers 2
+train_loss 0.20265873168311985, train_accuracy 0.9230769276618958, test_loss 0.1662690070097464, test_accuracy 0.956204354763031
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      86   2
+1       4  45
+scores - error: 0.6441156268119812, acc: 0.6569343209266663
+activation_function relu, lr 0.1, epoch 100, num_hidden_layers 3
+train_loss 0.6504249760519454, train_accuracy 0.6483516693115234, test_loss 0.6441156067987428, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.19773152470588684, acc: 0.9270073175430298
+activation_function sigmoid, lr 0.01, epoch 200, num_hidden_layers 2
+train_loss 0.19208813325123308, train_accuracy 0.9322344064712524, test_loss 0.19773152244895914, test_accuracy 0.9270073175430298
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  10
+1       0  37
+scores - error: 0.6438559889793396, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.01, epoch 200, num_hidden_layers 3
+train_loss 0.6498194752267865, train_accuracy 0.6483516693115234, test_loss 0.6438559498230036, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.18071693181991577, acc: 0.9489051103591919
+activation_function sigmoid, lr 0.1, epoch 200, num_hidden_layers 2
+train_loss 0.22817810418253984, train_accuracy 0.9267399311065674, test_loss 0.18071693800607302, test_accuracy 0.9489051103591919
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   7
+1       0  40
+scores - error: 0.6452860832214355, acc: 0.6569343209266663
+activation_function sigmoid, lr 0.1, epoch 200, num_hidden_layers 3
+train_loss 0.6514524344232057, train_accuracy 0.6483516693115234, test_loss 0.6452860070841155, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.17418834567070007, acc: 0.956204354763031
+activation_function tanh, lr 0.01, epoch 200, num_hidden_layers 2
+train_loss 0.16583335625123738, train_accuracy 0.9542124271392822, test_loss 0.17418836235293073, test_accuracy 0.956204354763031
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   6
+1       0  41
+scores - error: 0.2552216947078705, acc: 0.9197080135345459
+activation_function tanh, lr 0.01, epoch 200, num_hidden_layers 3
+train_loss 0.17141134536146244, train_accuracy 0.9542124271392822, test_loss 0.2552217029334202, test_accuracy 0.9197080135345459
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  11
+1       0  36
+scores - error: 0.11209584772586823, acc: 0.9781022071838379
+activation_function tanh, lr 0.1, epoch 200, num_hidden_layers 2
+train_loss 0.16006427166144271, train_accuracy 0.9560439586639404, test_loss 0.11209583784161258, test_accuracy 0.9781022071838379
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   3
+1       0  44
+scores - error: 0.6430741548538208, acc: 0.6569343209266663
+activation_function tanh, lr 0.1, epoch 200, num_hidden_layers 3
+train_loss 0.6508660066477109, train_accuracy 0.6483516693115234, test_loss 0.643074172474172, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.19720490276813507, acc: 0.9343065619468689
+activation_function relu, lr 0.01, epoch 200, num_hidden_layers 2
+train_loss 0.22217555047309662, train_accuracy 0.9285714030265808, test_loss 0.19720490289049863, test_accuracy 0.9343065619468689
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90   9
+1       0  38
+scores - error: 0.643352746963501, acc: 0.6569343209266663
+activation_function relu, lr 0.01, epoch 200, num_hidden_layers 3
+train_loss 0.6499469464187657, train_accuracy 0.6483516693115234, test_loss 0.6433528061330753, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.6475913524627686, acc: 0.6569343209266663
+activation_function relu, lr 0.1, epoch 200, num_hidden_layers 2
+train_loss 0.6490125753831514, train_accuracy 0.6483516693115234, test_loss 0.6475912858969974, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
+scores - error: 0.6432327032089233, acc: 0.6569343209266663
+activation_function relu, lr 0.1, epoch 200, num_hidden_layers 3
+train_loss 0.6506552768823428, train_accuracy 0.6483516693115234, test_loss 0.6432326288118849, test_accuracy 0.6569343209266663
+===========Confusion matrix============
+Class   0   1
+row_0        
+0      90  47
